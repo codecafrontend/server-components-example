@@ -1,0 +1,1 @@
+export { SearchedList } from './SearchedListContainer';
